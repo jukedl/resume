@@ -1,0 +1,143 @@
+{
+  "basics": {
+    "name": "Luke D James",
+    "label": "Data Scientist",
+    "picture": "",
+    "email": "lj@lukejames.dev",
+    "phone": "+44 (0) 7935 066 797",
+    "website": "https://lukejames.dev",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "EC3A 3BP",
+      "city": "London",
+      "countryCode": "UK",
+      "region": "London"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "jukedl",
+        "url": "https://github.com/jukedl"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Chubb",
+      "position": "Data Scientist",
+      "website": "http://chubb.com",
+      "startDate": "2019-05-13",
+      "endDate": "8888-01-01",
+      "summary": "Chubb is the world’s largest publicly traded property and casualty insurance company, serving consumers and companies of all sizes with traditional and specialty insurance products and industry-leading claims and risk engineering services.",
+      "highlights": [
+        "Ported ETL processes to automated Python",
+        "Migrated actuarial databases to SQL Server"
+      ]
+    },
+    {
+      "company": "INSTANDA",
+      "position": "Solution Architect",
+      "website": "http://instanda.com",
+      "startDate": "2016-12-12",
+      "endDate": "2019-05-07",
+      "summary": "Leading-edge cloud software that enables you to easily create, manage and distribute your insurance products.",
+      "highlights": [
+        "Designed and facilitated development of RESTful and SOAP API methods/callouts.", 
+        "Architected solutions for multiple FTSE 250 clients involving EMS/Message Bus middleware, and ETL processes."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "UoH Photographic Society",
+      "position": "President",
+      "startDate": "2014-05-01",
+      "endDate": "2016-06-11",
+      "summary": "Elected President two years running. Developed frameworks for commercial functioning."
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hull",
+      "area": "Physics",
+      "studyType": "B.Sc Hons",
+      "startDate": "2013-09-28",
+      "endDate": "2016-07-11",
+      "grade": "2:2",
+      "courses": [
+        "A Rough Guide to Legal Rights - 22495 ",
+        "Advanced Experimental Physics and Project Plan ",
+        "Advanced Optical Physics ",
+        "Computational Mathematics and Advanced Experimental Physics - 04222 ",
+        "Experimental Physics & Mathematical Techniques ",
+        "Fundamental Topics in Physics ",
+        "Group Project & Computational Mathematics for Physics ",
+        "Introduction to Experimental Physics & Mathematical Techniques - 04179 ",
+        "Introductory Investment Mathematics - 23715 ",
+        "Key Skills for Physics - 04172 ",
+        "Light, Fields, and Matter ",
+        "Optical Physics ",
+        "Particles & Fields - 04301 ",
+        "Practical Project ",
+        "Quantum and Classical Physics: An Introduction ",
+        "Quantum, Relativistic, and Classical Physics ",
+        "Space Physics - 04333 ",
+        "Thermal & Solid State Physics - 04203"
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "Mono-exponential DWI - Optimal Approach",
+      "publisher": "University of Hull",
+      "summary": "DWI is used to visualise and examine the rate of diffusion in the extracellular space aiding in characterisation of cancers in patients. Investigation to determine baseline ADC (coefficient) of healthy tissue."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Data Science",
+      "level": "Expert",
+      "keywords": [
+        "Python",
+        "SQL",
+        "R",
+        "ETL"
+      ]
+    },
+    {
+      "name": "Architecture",
+      "level": "Expert",
+      "keywords": [
+        "Azure",
+        "AWS",
+        "Docker"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Hobbies",
+      "keywords": [
+        "Beekeeping",
+        "Homelabbing"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Gari Gono",
+      "reference": "Available upon request"
+    },
+    {
+      "name": "Patrick Suter",
+      "reference": "Available upon request"
+    }
+  ]
+}

@@ -37,7 +37,7 @@
     },
     {
       "company": "INSTANDA",
-      "position": "Solution Architect",
+      "position": "Solutions Architect",
       "website": "http://instanda.com",
       "startDate": "2016-12-12",
       "endDate": "2019-05-07",
@@ -102,7 +102,8 @@
         "Python",
         "SQL",
         "R",
-        "ETL"
+        "ETL",
+        "Machine Learning"
       ]
     },
     {
@@ -111,7 +112,29 @@
       "keywords": [
         "Azure",
         "AWS",
-        "Docker"
+        "Docker",
+        "Kubernetes"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Intermediate",
+      "keywords": [
+        "HMTL 5",
+        "CSS 3",
+        "Bootstrap",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Master",
+      "keywords": [
+        "Pandas",
+        "Numpy",
+        "PETL",
+        "Django",
+        "Flask"
       ]
     }
   ],

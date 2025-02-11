@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Luke D James",
-    "label": "Data Scientist",
+    "label": "Product Lead",
     "picture": "",
     "email": "lj@lukejames.dev",
     "phone": "+44 (0) 7935 066 797",
@@ -9,7 +9,7 @@
     "summary": "",
     "location": {
       "address": "",
-      "postalCode": "EC3A 3BP",
+      "postalCode": "EC2N 4BQ",
       "city": "London",
       "countryCode": "UK",
       "region": "London"
@@ -17,18 +17,42 @@
     "profiles": [
       {
         "network": "GitHub",
-        "username": "jukedl",
-        "url": "https://github.com/jukedl"
+        "username": "lkjms",
+        "url": "https://github.com/lkjms"
       }
     ]
   },
   "work": [
     {
+      "company": "Verisk EES",
+      "position": "Product Manager",
+      "website": "https://www.verisk.com/solutions/extreme-event-risk/",
+      "startDate": "2025-01-02",
+      "endDate": "8888-01-01",
+      "summary": "",
+      "highlights": [
+        "Regional lead for $80mn cloud migration of industry leading Exposure Modelling and Catastriphe Modelling tool"
+      ]
+    },
+    {
+      "company": "Verisk SBS",
+      "position": "Head of Product",
+      "website": "http://verisksequel.com",
+      "startDate": "2020-08-18",
+      "endDate": "2025-01-01",
+      "summary": "",
+      "highlights": [
+        "Owned and Developed cross functional tooling to build a solution serving London Insurance market.",
+        "Executed on $4mn internal investment.",
+        "Technical side of $8mn of TCV."
+      ]
+    },
+    {
       "company": "Chubb",
       "position": "Data Scientist",
       "website": "http://chubb.com",
       "startDate": "2019-05-13",
-      "endDate": "8888-01-01",
+      "endDate": "2020-08-17",
       "summary": "Chubb is the world’s largest publicly traded property and casualty insurance company, serving consumers and companies of all sizes with traditional and specialty insurance products and industry-leading claims and risk engineering services.",
       "highlights": [
         "Ported ETL processes to automated Python",
@@ -66,23 +90,23 @@
       "endDate": "2016-07-11",
       "grade": "2:2",
       "courses": [
-        "A Rough Guide to Legal Rights - 22495 ",
-        "Advanced Experimental Physics and Project Plan ",
-        "Advanced Optical Physics ",
-        "Computational Mathematics and Advanced Experimental Physics - 04222 ",
-        "Experimental Physics & Mathematical Techniques ",
-        "Fundamental Topics in Physics ",
-        "Group Project & Computational Mathematics for Physics ",
-        "Introduction to Experimental Physics & Mathematical Techniques - 04179 ",
-        "Introductory Investment Mathematics - 23715 ",
-        "Key Skills for Physics - 04172 ",
-        "Light, Fields, and Matter ",
-        "Optical Physics ",
-        "Particles & Fields - 04301 ",
-        "Practical Project ",
-        "Quantum and Classical Physics: An Introduction ",
-        "Quantum, Relativistic, and Classical Physics ",
-        "Space Physics - 04333 ",
+        "A Rough Guide to Legal Rights - 22495",
+        "Advanced Experimental Physics and Project Plan",
+        "Advanced Optical Physics",
+        "Computational Mathematics and Advanced Experimental Physics - 04222",
+        "Experimental Physics & Mathematical Techniques",
+        "Fundamental Topics in Physics",
+        "Group Project & Computational Mathematics for Physics",
+        "Introduction to Experimental Physics & Mathematical Techniques - 04179",
+        "Introductory Investment Mathematics - 23715",
+        "Key Skills for Physics - 04172",
+        "Light, Fields, and Matter",
+        "Optical Physics",
+        "Particles & Fields - 04301",
+        "Practical Project",
+        "Quantum and Classical Physics: An Introduction",
+        "Quantum, Relativistic, and Classical Physics",
+        "Space Physics - 04333",
         "Thermal & Solid State Physics - 04203"
       ]
     }
